@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/flur123gruen\/map.json#start06 "
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/flur123gruen\/map.json#start06"
                 }],
          "type":"tilelayer",
          "visible":true,
